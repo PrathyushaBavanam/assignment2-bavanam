@@ -20,3 +20,5 @@ Times change but values don’t. And just like the Colonel, we know that nothing
 1. Chicken Fry
 2. Spring Rolls
 3. Momos
+
+[link to my AboutMe file](https://github.com/PrathyushaBavanam/assignment2-bavanam/blob/main/AboutMe.md)
