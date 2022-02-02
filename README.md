@@ -16,3 +16,7 @@ Times change but values don’t. And just like the Colonel, we know that nothing
 
    - after entering into the bypass take a immidate left and than immidate right
 
+## Food items
+1. Chicken Fry
+2. Spring Rolls
+3. Momos
