@@ -7,3 +7,5 @@ I like to travell.
 I like snow
 
 
+![Prathyusha](https://github.com/PrathyushaBavanam/assignment2-bavanam/blob/main/prathyusha.jpeg)
+[link to my image] (https://github.com/PrathyushaBavanam/assignment2-bavanam/blob/main/prathyusha.jpeg)
