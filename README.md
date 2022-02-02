@@ -22,3 +22,13 @@ Times change but values don’t. And just like the Colonel, we know that nothing
 3. Momos
 
 [link to my AboutMe file](https://github.com/PrathyushaBavanam/assignment2-bavanam/blob/main/AboutMe.md)
+
+------------------------------------------------------------------------
+
+# Sports
+
+| Name   | Location   | Amount   |
+|--------|------------|----------|
+| Volley Ball   |Guntur   | $40   |
+| Basket Ball   | Vijayawada   | $20   |
+| Throw Ball   | Hyderabad   |$15   |
