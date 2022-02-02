@@ -32,3 +32,12 @@ Times change but values don’t. And just like the Colonel, we know that nothing
 | Volley Ball   |Guntur   | $40   |
 | Basket Ball   | Vijayawada   | $20   |
 | Throw Ball   | Hyderabad   |$15   |
+
+-------------------------------------------------------------------------
+
+# Quotes
+
+>Reality is mearly an illusion. Krish
+
+>Love Yourself. BTS
+
