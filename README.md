@@ -79,6 +79,5 @@ void dijkstra(int s, vector<int> & d, vector<int> & p) {
             }
         }
     }
-}
 ----------------------------------------------------------------------------------
-much more to know (https://cp-algorithms.com/graph/dijkstra.html)
+<https://cp-algorithms.com/graph/dijkstra.html>
